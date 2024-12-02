@@ -555,7 +555,7 @@ body {
   .subscribe-container .subscribe-form .form-btn .send-icon {
     margin-left: 16px;
   } 
-  .modal-window {
+  modal-window {
     position: fixed;
     top: 0;
     left: 0;
