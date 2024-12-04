@@ -719,6 +719,7 @@ body {
     align-items: center;
     fill: transparent;
     margin-right: 5px;
+    display: inline-flex;
   }
   
   .form-checkbox:checked + .form-label .form-label-icon {
@@ -750,7 +751,4 @@ body {
     visibility: hidden;
     opacity: 0;
   }
-  .form-label-icon{
-    display: inline-flex;
-  }
-  
+ 
