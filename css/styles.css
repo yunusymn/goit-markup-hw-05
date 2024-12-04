@@ -751,7 +751,7 @@ body {
     visibility: hidden;
     opacity: 0;
   }
-  .modal-form-item-checkbox .form-label .form-label-icon{
+.form-label-icon{
     display: inline-flex;
   }
  
